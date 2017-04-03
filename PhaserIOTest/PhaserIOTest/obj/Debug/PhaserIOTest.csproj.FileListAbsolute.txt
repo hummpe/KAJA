@@ -1,0 +1,6 @@
+C:\Users\Hummpe\Documents\Visual Studio 2015\Projects\PhaserIOTest\PhaserIOTest\bin\PhaserIOTest.dll.config
+C:\Users\Hummpe\Documents\Visual Studio 2015\Projects\PhaserIOTest\PhaserIOTest\bin\PhaserIOTest.dll
+C:\Users\Hummpe\Documents\Visual Studio 2015\Projects\PhaserIOTest\PhaserIOTest\bin\PhaserIOTest.pdb
+C:\Users\Hummpe\Documents\Visual Studio 2015\Projects\PhaserIOTest\PhaserIOTest\obj\Debug\PhaserIOTest.csprojResolveAssemblyReference.cache
+C:\Users\Hummpe\Documents\Visual Studio 2015\Projects\PhaserIOTest\PhaserIOTest\obj\Debug\PhaserIOTest.dll
+C:\Users\Hummpe\Documents\Visual Studio 2015\Projects\PhaserIOTest\PhaserIOTest\obj\Debug\PhaserIOTest.pdb
